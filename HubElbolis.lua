@@ -31,6 +31,6 @@ HubTab:AddButton({
 HubTab:AddButton({
 	Name = "Pop It Trading!",
 	Callback = function()
-      		loadstring(game:HttpGet("https://raw.githubusercontent.com/ElbolisHub/SecurityScripted/main/popitt.lua", true))()
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/ElbolisHub/SecurityScripted/main/Popittra.lua", true))()
   	end    
 })
