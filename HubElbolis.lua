@@ -24,13 +24,13 @@ CodeTab:AddButton({
 HubTab:AddButton({
 	Name = "Tapping Fantasy!",
 	Callback = function()
-      		loadstring(game:HttpGet("https://raw.githubusercontent.com/esbanuwu/Justo-Update/main/Clapus", true))()
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/ElbolisHub/SecurityScripted/main/TappingF.lua", true))()
   	end    
 })
 
 HubTab:AddButton({
 	Name = "Pop It Trading!",
 	Callback = function()
-      		loadstring(game:HttpGet("https://raw.githubusercontent.com/esbanuwu/Justo-Update/main/Script1.lua", true))()
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/ElbolisHub/SecurityScripted/main/popitt.lua", true))()
   	end    
 })
